@@ -200,7 +200,7 @@ Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown t
 
 Open-source Markdown note-taking application for Mac, Windows, and Linux. Tangent stores notes as plain Markdown files locally, providing full control over data. It features linked notes with an interactive map and sliding panels to navigate between them, facilitating easy organization and exploration of ideas.\
 [Get more information here.](https://www.tangentnotes.com/Features/)\
-[The code resides on GitHub](https://github.com/suchnsuch/Tangent) ⭐ 539 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-23
+[The code resides on GitHub](https://github.com/suchnsuch/Tangent) ⭐ 539 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-23
 
 [**Typora**](https://typora.io/) ($14.99)
 
@@ -214,17 +214,17 @@ The current version, 0.9.23-1, still has some minor bugs and the OS X version is
 
 MarkFlowy is a very lightweight editor with built-in ChatGPT plugin (Although it is not mature enough, it is growing very fast.), allowing you to improve your editing efficiency and experience.
 
-[**Yank Note**](https://github.com/purocean/yn) ⭐ 6,742 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-12 (FREE, open source)
+[**Yank Note**](https://github.com/purocean/yn) ⭐ 6,743 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-12 (FREE, open source)
 
 Yank Note is a highly extensible Markdown editor, designed for productivity. It boasts a range of features including version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 
-For more information on Yank Note, please refer to its [characteristic functions description](https://github.com/purocean/yn?tab=readme-ov-file#characteristic-functions) ⭐ 6,742 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-12.
+For more information on Yank Note, please refer to its [characteristic functions description](https://github.com/purocean/yn?tab=readme-ov-file#characteristic-functions) ⭐ 6,743 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-12.
 
-[**MarkText**](https://github.com/marktext/marktext) ⭐ 60,513 | 🐛 704 | 🌐 TypeScript | 📅 2026-07-27 (FREE, open source)
+[**MarkText**](https://github.com/marktext/marktext) ⭐ 60,524 | 🐛 705 | 🌐 TypeScript | 📅 2026-07-27 (FREE, open source)
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
 
-[**QOwnNotes**](https://github.com/pbek/QOwnNotes) ⭐ 5,845 | 🐛 63 | 🌐 C++ | 📅 2026-08-23 (FREE, open source)
+[**QOwnNotes**](https://github.com/pbek/QOwnNotes) ⭐ 5,847 | 🐛 62 | 🌐 C++ | 📅 2026-08-23 (FREE, open source)
 
 Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration, scripting engine and scripts repository.
 
@@ -238,7 +238,7 @@ Zettlr ships with a lot of features helpful in writing markdown. It is especiall
 
 [The code resides on GitHub](https://github.com/Zettlr/Zettlr) ⭐ 13,428 | 🐛 515 | 🌐 TypeScript | 📅 2026-08-18
 
-[**GhostWriter**](https://github.com/wereturtle/ghostwriter) ⭐ 4,969 | 🐛 22 | 🌐 C++ | 📅 2026-08-21 (FREE, open source)
+[**GhostWriter**](https://github.com/wereturtle/ghostwriter) ⭐ 4,970 | 🐛 22 | 🌐 C++ | 📅 2026-08-21 (FREE, open source)
 
 GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax.
 
@@ -251,7 +251,7 @@ The interface is translated to many languages, as spanish, german or portuguese.
 [**IWE**](https://iwe.md) (FREE, open source)
 
 Markdown PKM for your favorite text editor. Local-first knowledge management with LSP integration for VS Code, Neovim, Zed, and Helix. Features wiki-style links, backlinks, graph transformations, and AI commands. Written in Rust.
-[The code resides on GitHub](https://github.com/iwe-org/iwe) ⭐ 1,571 | 🐛 3 | 🌐 Rust | 📅 2026-08-24
+[The code resides on GitHub](https://github.com/iwe-org/iwe) ⭐ 1,571 | 🐛 5 | 🌐 Rust | 📅 2026-08-24
 
 [**Znote**](https://znote.io) (FREE)
 
@@ -423,7 +423,7 @@ Free, open-source macOS editor with three-way merge for concurrent editing, auto
 
 **Markor**
 (web: [`gsantner.net`](https://gsantner.net/project/markor.html),
-github: [`gsantner/markor`](https://github.com/gsantner/markor) ⭐ 6,019 | 🐛 191 | 🌐 Java | 📅 2026-08-24) -
+github: [`gsantner/markor`](https://github.com/gsantner/markor) ⭐ 6,021 | 🐛 180 | 🌐 Java | 📅 2026-08-24) -
 Markor is an open source text editor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management.
 
 ### iOS
