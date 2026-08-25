@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 496233655,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T15:14:42Z",
+                "last_commit": "2026-08-25T13:18:55Z",
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2360
+                "stars": 2361
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-12T20:07:53Z",
                 "owner": "purocean",
                 "repo": "yn",
-                "stars": 6742
+                "stars": 6743
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-07-27T03:16:54Z",
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 60547
+                "stars": 60579
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 27436491,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:40:01Z",
+                "last_commit": "2026-08-25T20:59:15Z",
                 "owner": "pbek",
                 "repo": "QOwnNotes",
-                "stars": 5848
+                "stars": 5849
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 115446081,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:14:46Z",
+                "last_commit": "2026-08-25T12:47:59Z",
                 "owner": "Zettlr",
                 "repo": "Zettlr",
                 "stars": 13431
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-21T09:52:20Z",
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 4971
+                "stars": 4972
               }
             },
             {
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 768645046,
                 "language": "C++",
-                "last_commit": "2026-08-22T10:40:02Z",
+                "last_commit": "2026-08-25T11:24:49Z",
                 "owner": "igormironchik",
                 "repo": "markdown-tools",
                 "stars": 42
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:40.196Z",
+    "last_updated": "2026-08-25T21:46:14.116Z",
     "original_repository": "mundimark/awesome-markdown-editors",
     "original_repository_id": 53986979,
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
