@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A markdown editor for the desktop.",
+                "homepage": null,
                 "id": 964633433,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-27T03:18:36Z",
+                "open_issues": 2,
                 "owner": "fearlessgeekmedia",
                 "repo": "GeekDown",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -28,12 +33,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown editor that gets out of your way. Lightweight, fast, portable. First release of https://4worlds.dev",
+                "homepage": "https://inkwell.4worlds.dev/",
                 "id": 1165736327,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-12T19:52:00Z",
+                "open_issues": 6,
                 "owner": "4worlds4w-svg",
                 "repo": "inkwell",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "electron-alternative",
+                  "focus-mode",
+                  "local-first",
+                  "markdown-editor",
+                  "no-telemetry",
+                  "offline-first",
+                  "portable",
+                  "privacy-tools",
+                  "rust",
+                  "tauri2",
+                  "text-editor",
+                  "writing-tool"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -44,12 +67,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
+                "homepage": "https://www.markflowy.cc",
                 "id": 496233655,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T14:32:29Z",
+                "open_issues": 32,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2363
+                "stars": 2363,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "deepseek",
+                  "editor",
+                  "linux-app",
+                  "macos-app",
+                  "markdown",
+                  "markdowneditor",
+                  "notes-app",
+                  "prosemirror",
+                  "reactjs",
+                  "rust-lang",
+                  "tauri",
+                  "typescript",
+                  "windows-app"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -60,12 +104,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.",
+                "homepage": "https://yank-note.com",
                 "id": 119336293,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-12T20:07:53Z",
+                "open_issues": 80,
                 "owner": "purocean",
                 "repo": "yn",
-                "stars": 6744
+                "stars": 6744,
+                "topics": [
+                  "agent",
+                  "chatgpt",
+                  "deepseek",
+                  "drawio",
+                  "editor",
+                  "electron",
+                  "gemini",
+                  "koa2",
+                  "markdown",
+                  "markdown-editor",
+                  "markdown-it",
+                  "mermaid",
+                  "monaco-editor",
+                  "notebook",
+                  "openai",
+                  "opencode",
+                  "plantuml",
+                  "reveal-js",
+                  "vscode",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -76,12 +146,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+                "homepage": "https://www.marktext.me",
                 "id": 110446844,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-27T03:16:54Z",
+                "open_issues": 727,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 60713
+                "stars": 60714,
+                "topics": [
+                  "dark-mode",
+                  "editor",
+                  "electron",
+                  "focus-mode",
+                  "latex",
+                  "linux",
+                  "mac",
+                  "macos",
+                  "markdown",
+                  "marktext",
+                  "source-code",
+                  "typewriter-mode",
+                  "vue",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -92,12 +182,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.",
+                "homepage": "https://www.qownnotes.org/",
                 "id": 27436491,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T20:06:09Z",
+                "open_issues": 59,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
-                "stars": 5855
+                "stars": 5855,
+                "topics": [
+                  "bookmark",
+                  "c-plus-plus",
+                  "caldav",
+                  "chrome-extension",
+                  "dropbox",
+                  "firefox-extension",
+                  "llm",
+                  "local-first",
+                  "markdown",
+                  "nextcloud",
+                  "nextcloud-notes",
+                  "note-taking",
+                  "notebook",
+                  "notes",
+                  "owncloud",
+                  "pim",
+                  "pkm",
+                  "qownnotes",
+                  "qt",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -108,12 +224,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your One-Stop Publication Workbench",
+                "homepage": "https://www.zettlr.com",
                 "id": 115446081,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T04:04:41Z",
+                "open_issues": 517,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13446
+                "stars": 13446,
+                "topics": [
+                  "desktop",
+                  "docx",
+                  "electron",
+                  "html",
+                  "languages",
+                  "libreoffice",
+                  "linux",
+                  "macos",
+                  "markdown",
+                  "nodejs",
+                  "office",
+                  "offline",
+                  "pandoc",
+                  "pdf",
+                  "productivity",
+                  "windows",
+                  "zettlr"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -124,12 +263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text editor for Markdown",
+                "homepage": "https://invent.kde.org/office/ghostwriter",
                 "id": 41199796,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T10:20:09Z",
+                "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 4972
+                "stars": 4972,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -140,12 +284,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Private AI WYSIWYG Markdown editor with agentic chat & voice dictation. Open source, no cloud, no tracking.",
+                "homepage": "https://sourceforge.net/projects/scribedog/",
                 "id": 1298305511,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:01:13Z",
+                "open_issues": 7,
                 "owner": "snooky234",
                 "repo": "scribedog",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai-agent",
+                  "dictation",
+                  "llm",
+                  "local-ai",
+                  "markdown-editor",
+                  "no-telemetry",
+                  "notebook",
+                  "notes-app",
+                  "obsidian-alternative",
+                  "offline-first",
+                  "ollama",
+                  "pkm",
+                  "privacy-first",
+                  "speech-to-text",
+                  "tauri",
+                  "whisper-cpp",
+                  "writing-assistant",
+                  "wysiwyg"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -156,12 +324,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
+                "homepage": "https://www.stik.ink",
                 "id": 1150833483,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T18:22:45Z",
+                "open_issues": 7,
                 "owner": "0xMassi",
                 "repo": "stik_app",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "ai",
+                  "keyboard-first",
+                  "local-first",
+                  "mac-app",
+                  "macos",
+                  "markdown",
+                  "nlp",
+                  "note-taking",
+                  "notes-app",
+                  "obsidian-alternative",
+                  "on-device-ai",
+                  "open-source",
+                  "pkm",
+                  "privacy",
+                  "productivity",
+                  "quick-capture",
+                  "react",
+                  "rust",
+                  "sticky-notes",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -172,12 +366,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for work with Markdown (Editor/Viewer/Converter)",
+                "homepage": null,
                 "id": 768645046,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-28T12:27:51Z",
+                "open_issues": 0,
                 "owner": "igormironchik",
                 "repo": "markdown-tools",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "converter",
+                  "editor",
+                  "markdown",
+                  "pdf",
+                  "qt6",
+                  "viewer"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -188,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalist, offline-first markdown note-taking app",
+                "homepage": null,
                 "id": 1146390057,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-28T01:12:57Z",
+                "open_issues": 77,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1563
+                "stars": 1563,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             }
@@ -211,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Markdown Text Editor to manually edit a markdown file, with instant preview of the output in a HTML Viewer.  A Preview handler which allows you to see the content of the markdown file without open it, in the \"Preview Panel\", integrated into Windows Explorer.",
+                "homepage": null,
                 "id": 381144121,
                 "language": "Pascal",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T16:03:11Z",
+                "open_issues": 4,
                 "owner": "EtheaDev",
                 "repo": "MarkdownShellExtensions",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -227,12 +443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MarkdownHelpViewer  is an integrated help system based on files in Markdown format, for Delphi applications, plus a useful component to embed help inside the App.",
+                "homepage": null,
                 "id": 654611654,
                 "language": "Pascal",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T16:01:30Z",
+                "open_issues": 4,
                 "owner": "EtheaDev",
                 "repo": "MarkdownHelpViewer",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             }
@@ -250,12 +471,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native macOS Markdown editor for academic writing, featuring an integrated Zotero-friendly bibliography manager, spreadsheet databases, and task tracking.",
+                "homepage": null,
                 "id": 897995327,
                 "language": "Pascal",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-31T15:50:33Z",
+                "open_issues": 0,
                 "owner": "maxnd",
                 "repo": "mxMarkEdit",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "biblatex",
+                  "bibliography",
+                  "database",
+                  "dissertation",
+                  "document",
+                  "documents",
+                  "free-pascal",
+                  "lazarus",
+                  "macos",
+                  "markdown",
+                  "meeting-management",
+                  "note-taking",
+                  "org-mode",
+                  "pandoc",
+                  "presentation",
+                  "presentation-slides",
+                  "table",
+                  "text-editor",
+                  "todo-list",
+                  "zotero"
+                ]
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             }
@@ -269,15 +516,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:11:23.741Z",
+    "last_updated": "2026-08-29T04:24:04.875Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
+      "homepage": null,
       "id": 53986979,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-06T08:08:45Z",
+      "open_issues": 57,
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
-      "stars": 2250
+      "stars": 2250,
+      "topics": []
     },
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
     "enhanced_repository": "enhansome/enhansome-markdown-editors",

@@ -220,7 +220,7 @@ Yank Note is a highly extensible Markdown editor, designed for productivity. It 
 
 For more information on Yank Note, please refer to its [characteristic functions description](https://github.com/purocean/yn?tab=readme-ov-file#characteristic-functions) ⭐ 6,744 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-12.
 
-[**MarkText**](https://github.com/marktext/marktext) ⭐ 60,713 | 🐛 727 | 🌐 TypeScript | 📅 2026-07-27 (FREE, open source)
+[**MarkText**](https://github.com/marktext/marktext) ⭐ 60,714 | 🐛 727 | 🌐 TypeScript | 📅 2026-07-27 (FREE, open source)
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
 
