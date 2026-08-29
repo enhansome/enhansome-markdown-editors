@@ -81,7 +81,7 @@
                 "last_commit": "2026-07-27T03:16:54Z",
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 60675
+                "stars": 60713
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -94,10 +94,10 @@
                 "archived": false,
                 "id": 27436491,
                 "language": "C++",
-                "last_commit": "2026-08-27T20:07:21Z",
+                "last_commit": "2026-08-28T20:06:09Z",
                 "owner": "pbek",
                 "repo": "QOwnNotes",
-                "stars": 5854
+                "stars": 5855
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-27T04:04:41Z",
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13441
+                "stars": 13446
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-27T10:20:09Z",
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 4973
+                "stars": 4972
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-25T00:01:13Z",
                 "owner": "snooky234",
                 "repo": "scribedog",
-                "stars": 8
+                "stars": 9
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -174,10 +174,10 @@
                 "archived": false,
                 "id": 768645046,
                 "language": "C++",
-                "last_commit": "2026-08-27T16:47:53Z",
+                "last_commit": "2026-08-28T12:27:51Z",
                 "owner": "igormironchik",
                 "repo": "markdown-tools",
-                "stars": 42
+                "stars": 43
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             },
@@ -193,7 +193,7 @@
                 "last_commit": "2026-07-28T01:12:57Z",
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1561
+                "stars": 1563
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
             }
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:26:39.134Z",
+    "last_updated": "2026-08-29T03:11:23.741Z",
     "original_repository_info": {
       "archived": false,
       "id": 53986979,
@@ -277,7 +277,7 @@
       "last_commit": "2026-08-06T08:08:45Z",
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
-      "stars": 2249
+      "stars": 2250
     },
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
     "enhanced_repository": "enhansome/enhansome-markdown-editors",
