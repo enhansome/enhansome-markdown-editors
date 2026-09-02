@@ -76,7 +76,7 @@
                 "open_issues": 33,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2368,
+                "stars": 2371,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -109,8 +109,8 @@
                 "id": 119336293,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-01T20:11:08Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-02T23:06:59Z",
+                "open_issues": 82,
                 "owner": "purocean",
                 "repo": "yn",
                 "stars": 6745,
@@ -151,11 +151,11 @@
                 "id": 110446844,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T08:00:26Z",
-                "open_issues": 748,
+                "last_commit": "2026-09-02T04:53:56Z",
+                "open_issues": 744,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 60884,
+                "stars": 60938,
                 "topics": [
                   "dark-mode",
                   "editor",
@@ -188,7 +188,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-31T18:59:49Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
                 "stars": 5861,
@@ -229,11 +229,11 @@
                 "id": 115446081,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T20:07:05Z",
-                "open_issues": 523,
+                "last_commit": "2026-09-02T22:48:48Z",
+                "open_issues": 527,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13465,
+                "stars": 13467,
                 "topics": [
                   "desktop",
                   "docx",
@@ -272,7 +272,7 @@
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 4973,
+                "stars": 4974,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -293,7 +293,7 @@
                 "open_issues": 7,
                 "owner": "snooky234",
                 "repo": "scribedog",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "ai-agent",
                   "dictation",
@@ -333,7 +333,7 @@
                 "open_issues": 7,
                 "owner": "0xMassi",
                 "repo": "stik_app",
-                "stars": 249,
+                "stars": 252,
                 "topics": [
                   "ai",
                   "keyboard-first",
@@ -403,7 +403,7 @@
                 "open_issues": 77,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1567,
+                "stars": 1568,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -452,7 +452,7 @@
                 "open_issues": 4,
                 "owner": "EtheaDev",
                 "repo": "MarkdownHelpViewer",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:20:40.872Z",
+    "last_updated": "2026-09-02T23:20:57.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
@@ -528,7 +528,7 @@
       "open_issues": 60,
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
-      "stars": 2252,
+      "stars": 2253,
       "topics": []
     },
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
