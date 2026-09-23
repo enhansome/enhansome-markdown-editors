@@ -52,7 +52,7 @@ github: [`Nir-Bhay/markups`](https://github.com/Nir-Bhay/markups) ⭐ 23 | 🐛 
 
 **Dillinger.io**
 (web: [`dillinger.io`](http://dillinger.io/),
-github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger) ⭐ 8,285 | 🐛 157 | 🌐 TypeScript | 📅 2026-06-21)
+github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger) ⭐ 8,286 | 🐛 157 | 🌐 TypeScript | 📅 2026-06-21)
 
 **MarkTwo**
 (web: [`marktwo.app`](https://marktwo.app),
@@ -93,7 +93,7 @@ github: [`rossrobino/typo`](https://github.com/rossrobino/typo) ⭐ 123 | 🐛 0
 (web: [`reprose.pp.ua`](https://reprose.pp.ua/), github: [`jmas/reprose`](https://github.com/jmas/reprose) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-27), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
 
 **type.**
-(web: [`type.baby`](https://type.baby), github: [`qurle/type`](https://github.com/qurle/type) ⭐ 60 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-28), - Local-first zen editor. Supports imports/exports, publishing to web and offline work.
+(web: [`type.baby`](https://type.baby), github: [`qurle/type`](https://github.com/qurle/type) ⭐ 60 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-23), - Local-first zen editor. Supports imports/exports, publishing to web and offline work.
 
 **Markwhen**
 (web: [`markwhen.com`](https://meridiem.markwhen.com), github: [`mark-when/markwhen`](https://github.com/mark-when/markwhen) ⭐ 4,872 | 🐛 92 | 🌐 HTML | 📅 2023-12-11), - An interactive text-to-timeline tool that converts markdown-style text into cascading timelines. Features multiple visualization options including timeline, calendar, and resume views.
@@ -112,7 +112,7 @@ github: [`rossrobino/typo`](https://github.com/rossrobino/typo) ⭐ 123 | 🐛 0
 
 **Taskade**
 (web: [`taskade.com`](https://taskade.com),
-github: [`taskade/taskade`](https://github.com/taskade/taskade) ⭐ 64 | 🐛 9 | 📅 2026-09-18) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
+github: [`taskade/taskade`](https://github.com/taskade/taskade) ⭐ 65 | 🐛 9 | 📅 2026-09-18) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
@@ -138,7 +138,7 @@ Editors designed to be used by developers for use in websites and web apps.
 
 **Docs to Markdown Pro** (web: [Docs to Markdown Pro](https://www.docstomarkdown.pro), Google Workspace Marketplace Extension: [Docs to Markdown Pro Extension](https://workspace.google.com/marketplace/app/docs_to_markdown_pro/483386994804) Starts from 29$ per year) - This Google Docs editor add-on converts your Google Docs to Markdown format, including images. It integrates with GitHub and GitLab, allowing you to write collaboratively in Google Docs and commit your work directly as Markdown (including images) to your repositories, streamlining your workflow.
 
-**Umo Editor** (web:[Umo Editor Playground](https://www.umodoc.com/en/demo?pane=hide), Documentation: [Umo Editor Documentation](https://editor.umodoc.com/en/docs), Github: [umodoc/editor](https://github.com/umodoc/editor) ⭐ 1,601 | 🐛 1 | 🌐 Vue | 📅 2026-09-16) - Umo Editor is open-source document editor based on Vue3 and Tiptap. Umo Editor provides comprehensive document editing capabilities and AI creation features, supports pagination, supports Markdown syntax, offers basic rich text editing functions, allows for the insertion of various node types in multiple formats, provides a variety of practical tools, and supports setting page styles. It also supports exporting in various formats, printing and print preview, block-level document editing, adding custom extensions, multi-language settings, and a dark theme.
+**Umo Editor** (web:[Umo Editor Playground](https://www.umodoc.com/en/demo?pane=hide), Documentation: [Umo Editor Documentation](https://editor.umodoc.com/en/docs), Github: [umodoc/editor](https://github.com/umodoc/editor) ⭐ 1,602 | 🐛 1 | 🌐 Vue | 📅 2026-09-16) - Umo Editor is open-source document editor based on Vue3 and Tiptap. Umo Editor provides comprehensive document editing capabilities and AI creation features, supports pagination, supports Markdown syntax, offers basic rich text editing functions, allows for the insertion of various node types in multiple formats, provides a variety of practical tools, and supports setting page styles. It also supports exporting in various formats, printing and print preview, block-level document editing, adding custom extensions, multi-language settings, and a dark theme.
 
 ## Markdown Desktop Editors
 
@@ -166,7 +166,7 @@ A free, open source, cross-platform Markdown editor based on Milkdown. It can al
 
 Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (\~3MB) with zero telemetry — no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
 
-[**Kindling**](https://kindlingwriter.com) (FREE, open source @ github [`smith-and-web/kindling`](https://github.com/smith-and-web/kindling) ⭐ 66 | 🐛 57 | 🌐 Rust | 📅 2026-09-12)
+[**Kindling**](https://kindlingwriter.com) (FREE, open source @ github [`smith-and-web/kindling`](https://github.com/smith-and-web/kindling) ⭐ 67 | 🐛 46 | 🌐 Rust | 📅 2026-09-23)
 
 Kindling is a novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri for Windows, macOS, and Linux. All data stays local on your machine.
 
@@ -210,21 +210,21 @@ In addition to including some very nice looking css based themes it also leverag
 
 The current version, 0.9.23-1, still has some minor bugs and the OS X version is still in beta but, wow, does it look great!
 
-[**MarkFlowy**](https://github.com/drl990114/MarkFlowy) ⭐ 2,393 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-22 (FREE, open source)
+[**MarkFlowy**](https://github.com/drl990114/MarkFlowy) ⭐ 2,392 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-22 (FREE, open source)
 
 MarkFlowy is a very lightweight editor with built-in ChatGPT plugin (Although it is not mature enough, it is growing very fast.), allowing you to improve your editing efficiency and experience.
 
-[**Yank Note**](https://github.com/purocean/yn) ⭐ 6,760 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-20 (FREE, open source)
+[**Yank Note**](https://github.com/purocean/yn) ⭐ 6,759 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-20 (FREE, open source)
 
 Yank Note is a highly extensible Markdown editor, designed for productivity. It boasts a range of features including version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 
-For more information on Yank Note, please refer to its [characteristic functions description](https://github.com/purocean/yn?tab=readme-ov-file#characteristic-functions) ⭐ 6,760 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-20.
+For more information on Yank Note, please refer to its [characteristic functions description](https://github.com/purocean/yn?tab=readme-ov-file#characteristic-functions) ⭐ 6,759 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-20.
 
-[**MarkText**](https://github.com/marktext/marktext) ⭐ 61,741 | 🐛 410 | 🌐 TypeScript | 📅 2026-09-22 (FREE, open source)
+[**MarkText**](https://github.com/marktext/marktext) ⭐ 61,788 | 🐛 401 | 🌐 TypeScript | 📅 2026-09-23 (FREE, open source)
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
 
-[**QOwnNotes**](https://github.com/pbek/QOwnNotes) ⭐ 5,886 | 🐛 67 | 🌐 C++ | 📅 2026-09-22 (FREE, open source)
+[**QOwnNotes**](https://github.com/pbek/QOwnNotes) ⭐ 5,887 | 🐛 68 | 🌐 C++ | 📅 2026-09-23 (FREE, open source)
 
 Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration, scripting engine and scripts repository.
 
@@ -236,9 +236,9 @@ Visual Studio Code is a streamlined code editor with support for development ope
 
 Zettlr ships with a lot of features helpful in writing markdown. It is especially aimed at writing research papers in the arts and humanities (and therefore offers writing aids such as automatic footnote insertion and in-place editing, or a global search). Nonetheless it also supports LaTeX and code highlighting, which makes it interesting for developers as well. It features a file tree, plenty of exporting options and even supports whole projects (exporting multiple markdown files at once), live preview directly in the editor, and some Zettelkasten functionalities that enables the linking of files. Tags can also be used to sort your work.
 
-[The code resides on GitHub](https://github.com/Zettlr/Zettlr) ⭐ 13,566 | 🐛 542 | 🌐 TypeScript | 📅 2026-09-22
+[The code resides on GitHub](https://github.com/Zettlr/Zettlr) ⭐ 13,572 | 🐛 542 | 🌐 TypeScript | 📅 2026-09-22
 
-[**GhostWriter**](https://github.com/wereturtle/ghostwriter) ⭐ 4,986 | 🐛 22 | 🌐 C++ | 📅 2026-09-22 (FREE, open source)
+[**GhostWriter**](https://github.com/wereturtle/ghostwriter) ⭐ 4,987 | 🐛 22 | 🌐 C++ | 📅 2026-09-23 (FREE, open source)
 
 GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax.
 
@@ -251,7 +251,7 @@ The interface is translated to many languages, as spanish, german or portuguese.
 [**IWE**](https://iwe.md) (FREE, open source)
 
 Markdown PKM for your favorite text editor. Local-first knowledge management with LSP integration for VS Code, Neovim, Zed, and Helix. Features wiki-style links, backlinks, graph transformations, and AI commands. Written in Rust.
-[The code resides on GitHub](https://github.com/iwe-org/iwe) ⭐ 1,713 | 🐛 1 | 🌐 Rust | 📅 2026-09-20
+[The code resides on GitHub](https://github.com/iwe-org/iwe) ⭐ 1,722 | 🐛 1 | 🌐 Rust | 📅 2026-09-20
 
 [**Znote**](https://znote.io) (FREE)
 
@@ -285,7 +285,7 @@ Markdown files into preview and convert them into one PDF.
 
 Scratch is a lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. Notes are stored as plain .md files — no cloud, no account required. Integrates with local CLI tools like Claude Code and Codex for AI-powered editing. Features include a command palette, keyboard-first navigation, git integration, and customizable themes. Built with Tauri for native performance on Mac, Windows, and Linux.
 
-[The code resides on GitHub](https://github.com/erictli/scratch) ⭐ 1,580 | 🐛 81 | 🌐 TypeScript | 📅 2026-07-28
+[The code resides on GitHub](https://github.com/erictli/scratch) ⭐ 1,582 | 🐛 82 | 🌐 TypeScript | 📅 2026-07-28
 
 ### Linux
 
@@ -423,7 +423,7 @@ Free, open-source macOS editor with three-way merge for concurrent editing, auto
 
 **Markor**
 (web: [`gsantner.net`](https://gsantner.net/project/markor.html),
-github: [`gsantner/markor`](https://github.com/gsantner/markor) ⭐ 6,169 | 🐛 196 | 🌐 Java | 📅 2026-08-25) -
+github: [`gsantner/markor`](https://github.com/gsantner/markor) ⭐ 6,170 | 🐛 196 | 🌐 Java | 📅 2026-09-23) -
 Markor is an open source text editor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management.
 
 ### iOS
@@ -452,4 +452,4 @@ Send them along to the markdown-discuss mailing list. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
