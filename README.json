@@ -152,10 +152,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T13:01:02Z",
-                "open_issues": 349,
+                "open_issues": 350,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 62055,
+                "stars": 62058,
                 "topics": [
                   "dark-mode",
                   "editor",
@@ -220,7 +220,7 @@
             {
               "node_type": "item",
               "title": "The code resides on GitHub",
-              "description": null,
+              "description": "Zettlr/Zettlr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -233,7 +233,7 @@
                 "open_issues": 544,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13639,
+                "stars": 13640,
                 "topics": [
                   "desktop",
                   "docx",
@@ -268,7 +268,7 @@
                 "id": 41199796,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T21:07:38Z",
+                "last_commit": "2026-10-03T03:44:15Z",
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
@@ -322,7 +322,7 @@
             {
               "node_type": "item",
               "title": "The code resides on GitHub",
-              "description": null,
+              "description": "0xMassi/stik_app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +392,7 @@
             {
               "node_type": "item",
               "title": "The code resides on GitHub",
-              "description": null,
+              "description": "erictli/scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -405,7 +405,7 @@
                 "open_issues": 83,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1588,
+                "stars": 1589,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -469,7 +469,7 @@
             {
               "node_type": "item",
               "title": "mxMarkEdit",
-              "description": null,
+              "description": "maxnd/mxMarkEdit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:32:09.902Z",
+    "last_updated": "2026-10-03T04:55:13.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",

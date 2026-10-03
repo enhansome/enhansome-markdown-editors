@@ -220,7 +220,7 @@ Yank Note is a highly extensible Markdown editor, designed for productivity. It 
 
 For more information on Yank Note, please refer to its [characteristic functions description](https://github.com/purocean/yn?tab=readme-ov-file#characteristic-functions) ⭐ 6,765 | 🐛 68 | 🌐 TypeScript | 📅 2026-09-30.
 
-[**MarkText**](https://github.com/marktext/marktext) ⭐ 62,055 | 🐛 349 | 🌐 TypeScript | 📅 2026-10-02 (FREE, open source)
+[**MarkText**](https://github.com/marktext/marktext) ⭐ 62,058 | 🐛 350 | 🌐 TypeScript | 📅 2026-10-02 (FREE, open source)
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
 
@@ -236,9 +236,9 @@ Visual Studio Code is a streamlined code editor with support for development ope
 
 Zettlr ships with a lot of features helpful in writing markdown. It is especially aimed at writing research papers in the arts and humanities (and therefore offers writing aids such as automatic footnote insertion and in-place editing, or a global search). Nonetheless it also supports LaTeX and code highlighting, which makes it interesting for developers as well. It features a file tree, plenty of exporting options and even supports whole projects (exporting multiple markdown files at once), live preview directly in the editor, and some Zettelkasten functionalities that enables the linking of files. Tags can also be used to sort your work.
 
-[The code resides on GitHub](https://github.com/Zettlr/Zettlr) ⭐ 13,639 | 🐛 544 | 🌐 TypeScript | 📅 2026-09-29
+[The code resides on GitHub](https://github.com/Zettlr/Zettlr) ⭐ 13,640 | 🐛 544 | 🌐 TypeScript | 📅 2026-09-29
 
-[**GhostWriter**](https://github.com/wereturtle/ghostwriter) ⭐ 4,995 | 🐛 22 | 🌐 C++ | 📅 2026-09-25 (FREE, open source)
+[**GhostWriter**](https://github.com/wereturtle/ghostwriter) ⭐ 4,995 | 🐛 22 | 🌐 C++ | 📅 2026-10-03 (FREE, open source)
 
 GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax.
 
@@ -285,7 +285,7 @@ Markdown files into preview and convert them into one PDF.
 
 Scratch is a lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. Notes are stored as plain .md files — no cloud, no account required. Integrates with local CLI tools like Claude Code and Codex for AI-powered editing. Features include a command palette, keyboard-first navigation, git integration, and customizable themes. Built with Tauri for native performance on Mac, Windows, and Linux.
 
-[The code resides on GitHub](https://github.com/erictli/scratch) ⭐ 1,588 | 🐛 83 | 🌐 TypeScript | 📅 2026-07-28
+[The code resides on GitHub](https://github.com/erictli/scratch) ⭐ 1,589 | 🐛 83 | 🌐 TypeScript | 📅 2026-07-28
 
 ### Linux
 
