@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "4worlds4w-svg",
                 "repo": "inkwell",
-                "stars": 255,
+                "stars": 254,
                 "topics": [
                   "electron-alternative",
                   "focus-mode",
@@ -72,11 +72,11 @@
                 "id": 496233655,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T22:52:56Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-02T13:59:02Z",
+                "open_issues": 37,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2395,
+                "stars": 2394,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -113,7 +113,7 @@
                 "open_issues": 68,
                 "owner": "purocean",
                 "repo": "yn",
-                "stars": 6764,
+                "stars": 6765,
                 "topics": [
                   "agent",
                   "chatgpt",
@@ -151,11 +151,11 @@
                 "id": 110446844,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:03:24Z",
+                "last_commit": "2026-10-02T13:01:02Z",
                 "open_issues": 349,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 62036,
+                "stars": 62055,
                 "topics": [
                   "dark-mode",
                   "editor",
@@ -187,8 +187,8 @@
                 "id": 27436491,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-01T21:11:00Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-02T12:55:37Z",
+                "open_issues": 63,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
                 "stars": 5892,
@@ -233,7 +233,7 @@
                 "open_issues": 544,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13633,
+                "stars": 13639,
                 "topics": [
                   "desktop",
                   "docx",
@@ -335,7 +335,7 @@
                 "open_issues": 8,
                 "owner": "0xMassi",
                 "repo": "stik_app",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "ai",
                   "keyboard-first",
@@ -405,7 +405,7 @@
                 "open_issues": 83,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1587,
+                "stars": 1588,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:49:55.601Z",
+    "last_updated": "2026-10-03T00:32:09.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
@@ -527,10 +527,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-06T08:08:45Z",
-      "open_issues": 76,
+      "open_issues": 78,
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
-      "stars": 2274,
+      "stars": 2273,
       "topics": []
     },
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
