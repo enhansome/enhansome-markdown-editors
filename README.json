@@ -76,7 +76,7 @@
                 "open_issues": 30,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2415,
+                "stars": 2419,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -152,11 +152,11 @@
                 "id": 110446844,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T00:14:27Z",
-                "open_issues": 258,
+                "last_commit": "2026-10-28T00:19:54Z",
+                "open_issues": 242,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 63149,
+                "stars": 63190,
                 "topics": [
                   "editor",
                   "electron",
@@ -186,8 +186,8 @@
                 "id": 27436491,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-26T20:11:58Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-27T19:36:15Z",
+                "open_issues": 66,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
                 "stars": 5930,
@@ -228,11 +228,11 @@
                 "id": 115446081,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T07:34:12Z",
-                "open_issues": 536,
+                "last_commit": "2026-10-27T10:14:35Z",
+                "open_issues": 537,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13824,
+                "stars": 13829,
                 "topics": [
                   "desktop",
                   "docx",
@@ -271,7 +271,7 @@
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 5023,
+                "stars": 5024,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -372,7 +372,7 @@
                 "id": 768645046,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-23T14:41:41Z",
+                "last_commit": "2026-10-27T12:25:19Z",
                 "open_issues": 0,
                 "owner": "igormironchik",
                 "repo": "markdown-tools",
@@ -404,7 +404,7 @@
                 "open_issues": 83,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1602,
+                "stars": 1604,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:29:52.217Z",
+    "last_updated": "2026-10-28T00:32:50.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
@@ -526,7 +526,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-06T08:08:45Z",
-      "open_issues": 109,
+      "open_issues": 112,
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
       "stars": 2280,
