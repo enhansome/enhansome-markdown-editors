@@ -73,10 +73,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-31T06:01:23Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2428,
+                "stars": 2425,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -114,7 +114,7 @@
                 "open_issues": 79,
                 "owner": "purocean",
                 "repo": "yn",
-                "stars": 6771,
+                "stars": 6770,
                 "topics": [
                   "agent",
                   "chatgpt",
@@ -152,11 +152,11 @@
                 "id": 110446844,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T02:50:39Z",
-                "open_issues": 224,
+                "last_commit": "2026-11-03T13:10:25Z",
+                "open_issues": 226,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 63522,
+                "stars": 63563,
                 "topics": [
                   "editor",
                   "electron",
@@ -186,11 +186,11 @@
                 "id": 27436491,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-02T19:18:42Z",
+                "last_commit": "2026-11-03T20:31:48Z",
                 "open_issues": 70,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
-                "stars": 5939,
+                "stars": 5940,
                 "topics": [
                   "bookmark",
                   "c-plus-plus",
@@ -229,10 +229,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-03T02:25:16Z",
-                "open_issues": 538,
+                "open_issues": 539,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13855,
+                "stars": 13860,
                 "topics": [
                   "desktop",
                   "docx",
@@ -271,7 +271,7 @@
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 5030,
+                "stars": 5032,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -288,8 +288,8 @@
                 "id": 1298305511,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T18:55:21Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-04T00:21:23Z",
+                "open_issues": 10,
                 "owner": "snooky234",
                 "repo": "scribedog",
                 "stars": 20,
@@ -372,7 +372,7 @@
                 "id": 768645046,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-29T13:14:05Z",
+                "last_commit": "2026-11-03T16:58:43Z",
                 "open_issues": 0,
                 "owner": "igormironchik",
                 "repo": "markdown-tools",
@@ -401,10 +401,10 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-07-28T01:12:57Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1609,
+                "stars": 1611,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -428,7 +428,7 @@
                 "id": 381144121,
                 "language": "Pascal",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T20:20:27Z",
+                "last_commit": "2026-11-03T20:27:51Z",
                 "open_issues": 5,
                 "owner": "EtheaDev",
                 "repo": "MarkdownShellExtensions",
@@ -449,7 +449,7 @@
                 "id": 654611654,
                 "language": "Pascal",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T20:20:01Z",
+                "last_commit": "2026-11-03T21:19:44Z",
                 "open_issues": 0,
                 "owner": "EtheaDev",
                 "repo": "MarkdownHelpViewer",
@@ -462,62 +462,13 @@
           "description": "WriteMonkey (web: ) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free\nobsidian (web: ) - Obsidian is the private and flexible writing app that adapts to the way you think. Obsidian stores notes on your device, so you can access them quickly, even offline. No one else can read them, not even us.\nMarkdown Monster (web: ) - Markdown is everywhere these days and it's used for all sorts of different purposes. Wouldn't it be nice if you have an editor that can keep up with all of those scenarios?\nMarkdown Monster is a Markdown editor and viewer that lets you edit Markdown with syntax highlighting and fast text entry. A collapsible, synced, live preview lets you see your output as you type. You can easily embed images, links, emojis and code as text or by using our gentle UI helpers that simplify many operations. You can also paste and drag images directly into the editor. Inline spell-checking and word counts keep your content streamlined unobtrusively.\nYou can export Markdown to HTML by saving to disk or by copying Markdown selections as HTML directly to the clipboard. The HTML preview can display syntax colored code snippets for most common coding languages, and can easily be customized with HTML and CSS template to match your own sites. You can choose from a light and dark theme, and choose individual editor and preview themes. You can even use Vim or EMacs type conventions. Other convenience features let you browse for and select files in the built-in folder browser, jump to the current folder in Explorer or Terminal, commit to Git and more.\nMore / Articles\nA collection of tools for markdown files, to edit and view content:\nAn integrated help system based on files in Markdown format (and also html), for Delphi and Windows applications\nMDLook (web: , github: ) - Portable, fully offline Markdown editor for Windows. No install, no internet, no Electron — uses WebView2 at just 42 MB total. Features split-pane editing with live preview, dark mode, KaTeX math, Mermaid diagrams, syntax highlighting, and export to HTML.",
           "node_type": "group",
           "title": "Microsoft Windows"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "mxMarkEdit",
-              "description": "maxnd/mxMarkEdit",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A native macOS Markdown editor for academic writing, featuring an integrated Zotero-friendly bibliography manager, spreadsheet databases, and task tracking.",
-                "homepage": null,
-                "id": 897995327,
-                "language": "Pascal",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-24T10:33:47Z",
-                "open_issues": 0,
-                "owner": "maxnd",
-                "repo": "mxMarkEdit",
-                "stars": 35,
-                "topics": [
-                  "biblatex",
-                  "bibliography",
-                  "database",
-                  "dissertation",
-                  "document",
-                  "documents",
-                  "free-pascal",
-                  "lazarus",
-                  "macos",
-                  "markdown",
-                  "meeting-management",
-                  "note-taking",
-                  "org-mode",
-                  "pandoc",
-                  "presentation",
-                  "presentation-slides",
-                  "table",
-                  "text-editor",
-                  "todo-list",
-                  "zotero"
-                ]
-              },
-              "first_seen": "2026-08-28T05:26:39.134Z"
-            }
-          ],
-          "description": "LitSquare Ink MD Ink MD (LitSquare Ink MD) - Native macOS Markdown editor (SwiftUI/AppKit, TextKit 2) with styled editing, workspace browsing, live preview (markdown-it + highlight.js + KaTeX), rich-text copy/export, themes, and an optional \"Show Invisibles\" overlay.\nMacDown (web: ) - open source Markdown editor inspired by Mou, with live preview of extended markdown syntaxes\nMore / Articles\nmdnb (FREE)\nmdnb is a free, native macOS app built in Swift (not Electron or Tauri). Files are stored as plain .mdfiles & support wikilinks, tags, task lists & mermaid diagrams. Full text search & a command palette make it easier than ever to find your notes. Over 20 built in themes make your notes look better than ever. Use Claude Code or Codex CLI in the built in Ghostty terminal. Sync your notes with git, iCloud or Google Drive.\nMarkdownObserver (open source @ github )\nNative macOS Markdown reader focused on fast preview and workspace workflows. Features file and folder watching with live change tracking, collapsible sidebar with subfolder grouping, and saveable folder favorites. Also available on the App Store.\nNota ($29 for continued use)\nPro writing app designed for local Markdown files. Nota is a beautiful and easy to use writing app that's also powerful and efficient. Its simple design enables a wide range of uses: from notes and wikis, to static blogs and websites, to articles and books. It works with local Markdown files to keep your data completely in your control.\nmxMarkEdit is a free software for Mac for writing texts and todo items in Markdown format and easily exporting them to other formats with Pandoc, provided that it's installed in the system in use. In each document, it's available an Excel-like grid useful to manage various sets of data, and also a file manager to search for a sentence in all the documents or spreadsheets contained in a folder. mxMarkEdit has been deeply influenced by Org-mode. Although it has far less functionalities and customisations than the latter, it's a standard Mac app which benefits of the Apple spell checking and standard shortcuts.\nSideMark (github: ) (Free, open source)\nFree, open-source macOS editor with three-way merge for concurrent editing, auto-save, focus mode, git gutter markers, and PDF/HTML export. Built for workflows where multiple authors (including AI agents) edit the same files.",
-          "node_type": "group",
-          "title": "Apple Mac OS X"
         }
       ],
       "title": "Markdown Desktop Editors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:56:30.629Z",
+    "last_updated": "2026-11-04T01:26:13.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
@@ -529,7 +480,7 @@
       "open_issues": 124,
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
-      "stars": 2284,
+      "stars": 2287,
       "topics": []
     },
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
