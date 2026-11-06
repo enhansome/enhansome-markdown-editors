@@ -73,7 +73,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T13:45:45Z",
-                "open_issues": 34,
+                "open_issues": 36,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
                 "stars": 2422,
@@ -114,7 +114,7 @@
                 "open_issues": 79,
                 "owner": "purocean",
                 "repo": "yn",
-                "stars": 6771,
+                "stars": 6775,
                 "topics": [
                   "agent",
                   "chatgpt",
@@ -152,11 +152,11 @@
                 "id": 110446844,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T05:25:13Z",
+                "last_commit": "2026-11-06T01:02:37Z",
                 "open_issues": 227,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 63610,
+                "stars": 63642,
                 "topics": [
                   "editor",
                   "electron",
@@ -186,11 +186,11 @@
                 "id": 27436491,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-03T20:31:48Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-05T21:51:18Z",
+                "open_issues": 69,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
-                "stars": 5942,
+                "stars": 5945,
                 "topics": [
                   "bookmark",
                   "c-plus-plus",
@@ -229,10 +229,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-03T02:25:16Z",
-                "open_issues": 539,
+                "open_issues": 540,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13871,
+                "stars": 13876,
                 "topics": [
                   "desktop",
                   "docx",
@@ -267,11 +267,11 @@
                 "id": 41199796,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T18:45:58Z",
+                "last_commit": "2026-11-05T10:50:40Z",
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 5032,
+                "stars": 5033,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -334,7 +334,7 @@
                 "open_issues": 17,
                 "owner": "0xMassi",
                 "repo": "stik_app",
-                "stars": 268,
+                "stars": 267,
                 "topics": [
                   "ai",
                   "keyboard-first",
@@ -404,7 +404,7 @@
                 "open_issues": 86,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1612,
+                "stars": 1611,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:29:04.792Z",
+    "last_updated": "2026-11-06T01:35:24.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
@@ -477,10 +477,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-06T08:08:45Z",
-      "open_issues": 126,
+      "open_issues": 127,
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
-      "stars": 2288,
+      "stars": 2289,
       "topics": []
     },
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
