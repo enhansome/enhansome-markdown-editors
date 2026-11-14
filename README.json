@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "4worlds4w-svg",
                 "repo": "inkwell",
-                "stars": 259,
+                "stars": 261,
                 "topics": [
                   "electron-alternative",
                   "focus-mode",
@@ -76,7 +76,7 @@
                 "open_issues": 26,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2438,
+                "stars": 2439,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -110,11 +110,11 @@
                 "id": 119336293,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-12T23:24:08Z",
+                "last_commit": "2026-11-13T13:39:10Z",
                 "open_issues": 81,
                 "owner": "purocean",
                 "repo": "yn",
-                "stars": 6781,
+                "stars": 6783,
                 "topics": [
                   "agent",
                   "chatgpt",
@@ -152,11 +152,11 @@
                 "id": 110446844,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T01:29:43Z",
-                "open_issues": 249,
+                "last_commit": "2026-11-13T04:08:11Z",
+                "open_issues": 248,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 63926,
+                "stars": 63958,
                 "topics": [
                   "editor",
                   "electron",
@@ -186,11 +186,11 @@
                 "id": 27436491,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-12T16:08:35Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-13T19:39:43Z",
+                "open_issues": 64,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
-                "stars": 5956,
+                "stars": 5959,
                 "topics": [
                   "bookmark",
                   "c-plus-plus",
@@ -228,11 +228,11 @@
                 "id": 115446081,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T21:23:43Z",
-                "open_issues": 528,
+                "last_commit": "2026-11-13T17:44:43Z",
+                "open_issues": 519,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13905,
+                "stars": 13913,
                 "topics": [
                   "desktop",
                   "docx",
@@ -267,7 +267,7 @@
                 "id": 41199796,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T04:32:58Z",
+                "last_commit": "2026-11-13T12:14:21Z",
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
@@ -404,7 +404,7 @@
                 "open_issues": 86,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1639,
+                "stars": 1641,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -432,7 +432,7 @@
                 "open_issues": 5,
                 "owner": "EtheaDev",
                 "repo": "MarkdownShellExtensions",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:52:19.396Z",
+    "last_updated": "2026-11-14T01:28:35.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
@@ -477,10 +477,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-06T08:08:45Z",
-      "open_issues": 135,
+      "open_issues": 136,
       "owner": "mundimark",
       "repo": "awesome-markdown-editors",
-      "stars": 2296,
+      "stars": 2297,
       "topics": []
     },
     "original_repository_sha": "1fb5fa82b1f9659fff691dd1e42dfda43cfec96d",
