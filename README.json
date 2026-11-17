@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "4worlds4w-svg",
                 "repo": "inkwell",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "electron-alternative",
                   "focus-mode",
@@ -72,11 +72,11 @@
                 "id": 496233655,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-15T14:28:18Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-16T20:07:50Z",
+                "open_issues": 26,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
-                "stars": 2439,
+                "stars": 2440,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -153,10 +153,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-14T02:27:32Z",
-                "open_issues": 249,
+                "open_issues": 255,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 64006,
+                "stars": 64064,
                 "topics": [
                   "editor",
                   "electron",
@@ -186,11 +186,11 @@
                 "id": 27436491,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-15T18:03:35Z",
-                "open_issues": 65,
+                "last_commit": "2026-11-16T20:20:15Z",
+                "open_issues": 66,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
-                "stars": 5962,
+                "stars": 5966,
                 "topics": [
                   "bookmark",
                   "c-plus-plus",
@@ -228,11 +228,11 @@
                 "id": 115446081,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T22:45:41Z",
-                "open_issues": 515,
+                "last_commit": "2026-11-17T02:26:05Z",
+                "open_issues": 516,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13918,
+                "stars": 13923,
                 "topics": [
                   "desktop",
                   "docx",
@@ -267,11 +267,11 @@
                 "id": 41199796,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T04:06:52Z",
+                "last_commit": "2026-11-17T02:30:44Z",
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
-                "stars": 5044,
+                "stars": 5045,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -288,7 +288,7 @@
                 "id": 1298305511,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T01:22:39Z",
+                "last_commit": "2026-11-17T01:41:43Z",
                 "open_issues": 11,
                 "owner": "snooky234",
                 "repo": "scribedog",
@@ -330,7 +330,7 @@
                 "id": 1150833483,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T16:09:40Z",
+                "last_commit": "2026-11-16T16:09:17Z",
                 "open_issues": 17,
                 "owner": "0xMassi",
                 "repo": "stik_app",
@@ -404,7 +404,7 @@
                 "open_issues": 86,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1643,
+                "stars": 1645,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -432,7 +432,7 @@
                 "open_issues": 5,
                 "owner": "EtheaDev",
                 "repo": "MarkdownShellExtensions",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -453,7 +453,7 @@
                 "open_issues": 0,
                 "owner": "EtheaDev",
                 "repo": "MarkdownHelpViewer",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:05:06.903Z",
+    "last_updated": "2026-11-17T03:56:52.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
