@@ -72,8 +72,8 @@
                 "id": 496233655,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T08:42:59Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-28T03:16:40Z",
+                "open_issues": 29,
                 "owner": "drl990114",
                 "repo": "MarkFlowy",
                 "stars": 2447,
@@ -153,10 +153,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-25T05:35:46Z",
-                "open_issues": 298,
+                "open_issues": 300,
                 "owner": "marktext",
                 "repo": "marktext",
-                "stars": 64430,
+                "stars": 64455,
                 "topics": [
                   "editor",
                   "electron",
@@ -186,8 +186,8 @@
                 "id": 27436491,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-26T19:45:10Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-27T14:35:53Z",
+                "open_issues": 54,
                 "owner": "pbek",
                 "repo": "QOwnNotes",
                 "stars": 5977,
@@ -229,10 +229,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-26T18:34:12Z",
-                "open_issues": 523,
+                "open_issues": 522,
                 "owner": "Zettlr",
                 "repo": "Zettlr",
-                "stars": 13967,
+                "stars": 13971,
                 "topics": [
                   "desktop",
                   "docx",
@@ -267,7 +267,7 @@
                 "id": 41199796,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-27T01:22:51Z",
+                "last_commit": "2026-11-27T14:37:41Z",
                 "open_issues": 22,
                 "owner": "KDE",
                 "repo": "ghostwriter",
@@ -334,7 +334,7 @@
                 "open_issues": 18,
                 "owner": "0xMassi",
                 "repo": "stik_app",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "ai",
                   "keyboard-first",
@@ -404,7 +404,7 @@
                 "open_issues": 95,
                 "owner": "erictli",
                 "repo": "scratch",
-                "stars": 1657,
+                "stars": 1658,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:26:39.134Z"
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:39:21.228Z",
+    "last_updated": "2026-11-28T03:20:15.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
